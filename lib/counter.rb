@@ -11,3 +11,4 @@ class Counter
     return "Counted to #{@count} so far."
   end
 end
+
